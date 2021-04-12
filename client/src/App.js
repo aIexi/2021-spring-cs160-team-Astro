@@ -40,7 +40,7 @@ const App = () => {
                             <Searchbar/>
                             <Posts posts = {posts}/> 
                         </Grid>
-
+                
                         <Grid item xs={12} sm={3}>
                             <Login/>
                             <Posts posts = {posts}/> 
